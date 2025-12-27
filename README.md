@@ -58,7 +58,7 @@
 
 - Dynamic product listing updates based on user selection
 
-Optimized for quick and accurate results
+- Optimized for quick and accurate results
 ## ⚙️ How It Works
 
 - The application loads a list of footwear products when the page is opened
