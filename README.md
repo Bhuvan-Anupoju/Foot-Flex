@@ -1,5 +1,5 @@
 
-# 👟 Footwear E-Commerce Store
+# 👟 Footwear Online Store
 
 
 #### 🔰 Overview
